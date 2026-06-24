@@ -50,5 +50,18 @@
     "submissionId": "2045020155",
     "timestamp": "1782328438",
     "path": "Medium/0003_Longest_Substring_Without_Repeating_Characters.cpp"
+  },
+  {
+    "problemId": "6",
+    "problemTitle": "Zigzag Conversion",
+    "problemSlug": "zigzag-conversion",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "4 ms",
+    "memory": "13.9 MB",
+    "submissionId": "2045045436",
+    "timestamp": "1782330652",
+    "path": "Medium/0006_Zigzag_Conversion.cpp"
   }
 ]
