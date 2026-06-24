@@ -4,7 +4,7 @@
  * Difficulty: Easy
  * Language: C++
  * Runtime: 0 ms
- * Memory: 8.5 MB
+ * Memory: 8.6 MB
  * Synced From: LeetCode
  * Date: 2026-06-24
  */
