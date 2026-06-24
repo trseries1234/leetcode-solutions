@@ -37,5 +37,18 @@
     "submissionId": "2045014318",
     "timestamp": "1782327979",
     "path": "Medium/0002_Add_Two_Numbers.cpp"
+  },
+  {
+    "problemId": "3",
+    "problemTitle": "Longest Substring Without Repeating Characters",
+    "problemSlug": "longest-substring-without-repeating-characters",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "11 MB",
+    "submissionId": "2045020155",
+    "timestamp": "1782328438",
+    "path": "Medium/0003_Longest_Substring_Without_Repeating_Characters.cpp"
   }
 ]
