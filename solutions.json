@@ -11,5 +11,18 @@
     "submissionId": "2044954268",
     "timestamp": "1782324407",
     "path": "Easy/0069_Sqrtx.cpp"
+  },
+  {
+    "problemId": "1",
+    "problemTitle": "Two Sum",
+    "problemSlug": "two-sum",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "2 ms",
+    "memory": "14.9 MB",
+    "submissionId": "2044968257",
+    "timestamp": "1782325112",
+    "path": "Easy/0001_Two_Sum.cpp"
   }
 ]
