@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 2
+Total Solved: 3
 
 ## Easy
 
@@ -9,7 +9,7 @@ Total Solved: 2
 
 ## Medium
 
-*No medium problems solved yet.*
+- Add Two Numbers ([C++](Medium/0002_Add_Two_Numbers.cpp))
 
 ## Hard
 
@@ -20,7 +20,7 @@ Total Solved: 2
 | Difficulty | Count |
 |------------|--------|
 | Easy | 2 |
-| Medium | 0 |
+| Medium | 1 |
 | Hard | 0 |
 
 ---
