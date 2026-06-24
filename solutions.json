@@ -1,0 +1,15 @@
+[
+  {
+    "problemId": "69",
+    "problemTitle": "Sqrt(x)",
+    "problemSlug": "sqrtx",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "8.5 MB",
+    "submissionId": "2044943092",
+    "timestamp": "1782323859",
+    "path": "Easy/0069_Sqrtx.cpp"
+  }
+]
