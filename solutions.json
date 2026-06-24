@@ -24,5 +24,18 @@
     "submissionId": "2044968257",
     "timestamp": "1782325112",
     "path": "Easy/0001_Two_Sum.cpp"
+  },
+  {
+    "problemId": "2",
+    "problemTitle": "Add Two Numbers",
+    "problemSlug": "add-two-numbers",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "77.3 MB",
+    "submissionId": "2045014318",
+    "timestamp": "1782327979",
+    "path": "Medium/0002_Add_Two_Numbers.cpp"
   }
 ]
