@@ -1,9 +1,10 @@
 # LeetCode Solutions
 
-Total Solved: 1
+Total Solved: 2
 
 ## Easy
 
+- Two Sum ([C++](Easy/0001_Two_Sum.cpp))
 - Sqrt(x) ([C++](Easy/0069_Sqrtx.cpp))
 
 ## Medium
@@ -18,9 +19,9 @@ Total Solved: 1
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 1 |
+| Easy | 2 |
 | Medium | 0 |
 | Hard | 0 |
 
 ---
-*README.md automatically updated by [LeetCode GitHub Sync](https://github.com/)*
+*README.md automatically updated by [LeetCelebrate](https://github.com/)*
