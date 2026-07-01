@@ -63,5 +63,18 @@
     "submissionId": "2045045436",
     "timestamp": "1782330652",
     "path": "Medium/0006_Zigzag_Conversion.cpp"
+  },
+  {
+    "problemId": "8",
+    "problemTitle": "String to Integer (atoi)",
+    "problemSlug": "string-to-integer-atoi",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "4 ms",
+    "memory": "9.2 MB",
+    "submissionId": "2052441866",
+    "timestamp": "1782915506",
+    "path": "Medium/0008_String_to_Integer_atoi.cpp"
   }
 ]
