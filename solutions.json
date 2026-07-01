@@ -76,5 +76,18 @@
     "submissionId": "2052441866",
     "timestamp": "1782915506",
     "path": "Medium/0008_String_to_Integer_atoi.cpp"
+  },
+  {
+    "problemId": "4",
+    "problemTitle": "Median of Two Sorted Arrays",
+    "problemSlug": "median-of-two-sorted-arrays",
+    "difficulty": "Hard",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "1 ms",
+    "memory": "94.9 MB",
+    "submissionId": "2052443865",
+    "timestamp": "1782915618",
+    "path": "Hard/0004_Median_of_Two_Sorted_Arrays.cpp"
   }
 ]
