@@ -45,10 +45,10 @@
     "difficulty": "Medium",
     "language": "C++",
     "extension": "cpp",
-    "runtime": "0 ms",
-    "memory": "11 MB",
-    "submissionId": "2045020155",
-    "timestamp": "1782328438",
+    "runtime": "1 ms",
+    "memory": "11.9 MB",
+    "submissionId": "2052433852",
+    "timestamp": "1782915017",
     "path": "Medium/0003_Longest_Substring_Without_Repeating_Characters.cpp"
   },
   {
