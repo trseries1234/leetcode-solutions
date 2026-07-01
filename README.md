@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 6
+Total Solved: 7
 
 ## Easy
 
@@ -16,7 +16,7 @@ Total Solved: 6
 
 ## Hard
 
-*No hard problems solved yet.*
+- Median of Two Sorted Arrays ([C++](Hard/0004_Median_of_Two_Sorted_Arrays.cpp))
 
 ## Statistics
 
@@ -24,7 +24,7 @@ Total Solved: 6
 |------------|--------|
 | Easy | 2 |
 | Medium | 4 |
-| Hard | 0 |
+| Hard | 1 |
 
 ---
 *README.md automatically updated by [LeetCelebrate](https://github.com/)*
