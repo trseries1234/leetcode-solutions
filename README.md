@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 5
+Total Solved: 6
 
 ## Easy
 
@@ -12,6 +12,7 @@ Total Solved: 5
 - Add Two Numbers ([C++](Medium/0002_Add_Two_Numbers.cpp))
 - Longest Substring Without Repeating Characters ([C++](Medium/0003_Longest_Substring_Without_Repeating_Characters.cpp))
 - Zigzag Conversion ([C++](Medium/0006_Zigzag_Conversion.cpp))
+- String to Integer (atoi) ([C++](Medium/0008_String_to_Integer_atoi.cpp))
 
 ## Hard
 
@@ -22,7 +23,7 @@ Total Solved: 5
 | Difficulty | Count |
 |------------|--------|
 | Easy | 2 |
-| Medium | 3 |
+| Medium | 4 |
 | Hard | 0 |
 
 ---
