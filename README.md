@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 7
+Total Solved: 8
 
 ## Easy
 
@@ -13,6 +13,7 @@ Total Solved: 7
 - Longest Substring Without Repeating Characters ([C++](Medium/0003_Longest_Substring_Without_Repeating_Characters.cpp))
 - Zigzag Conversion ([C++](Medium/0006_Zigzag_Conversion.cpp))
 - String to Integer (atoi) ([C++](Medium/0008_String_to_Integer_atoi.cpp))
+- Maximize Active Section with Trade I ([C++](Medium/3805_Maximize_Active_Section_with_Trade_I.cpp))
 
 ## Hard
 
@@ -23,7 +24,7 @@ Total Solved: 7
 | Difficulty | Count |
 |------------|--------|
 | Easy | 2 |
-| Medium | 4 |
+| Medium | 5 |
 | Hard | 1 |
 
 ---
