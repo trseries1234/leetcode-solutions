@@ -89,5 +89,18 @@
     "submissionId": "2052443865",
     "timestamp": "1782915618",
     "path": "Hard/0004_Median_of_Two_Sorted_Arrays.cpp"
+  },
+  {
+    "problemId": "3805",
+    "problemTitle": "Maximize Active Section with Trade I",
+    "problemSlug": "maximize-active-section-with-trade-i",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "179 ms",
+    "memory": "176.1 MB",
+    "submissionId": "2076119896",
+    "timestamp": "1784652575",
+    "path": "Medium/3805_Maximize_Active_Section_with_Trade_I.cpp"
   }
 ]
