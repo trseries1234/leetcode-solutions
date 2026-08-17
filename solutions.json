@@ -102,5 +102,18 @@
     "submissionId": "2076119896",
     "timestamp": "1784652575",
     "path": "Medium/3805_Maximize_Active_Section_with_Trade_I.cpp"
+  },
+  {
+    "problemId": "5",
+    "problemTitle": "Longest Palindromic Substring",
+    "problemSlug": "longest-palindromic-substring",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "4 ms",
+    "memory": "9.4 MB",
+    "submissionId": "2109715593",
+    "timestamp": "1786944598",
+    "path": "Medium/0005_Longest_Palindromic_Substring.cpp"
   }
 ]
